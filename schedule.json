@@ -2,8 +2,6 @@
   "Hall1": [
     {"day":"Sun","subject":"Discrete Mathematics","doctor":"Dr.Elshaer","start":"09:00","end":"10:00"},
     {"day":"Sun","subject":"Digital Logic","doctor":"Dr.Khaled","start":"11:00","end":"12:00"}
-  ],
-  "Hall2": [
-    {"day":"Sun","subject":"Signals","doctor":"Dr.Nada","start":"09:00","end":"10:30"}
   ]
 }
+
