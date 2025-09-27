@@ -1,17 +1,26 @@
 {
-  "refresh_token": "4",
+  "refresh_token": "2",
   "format_token": "schedule",
 
-  "schedule": {
-    "dr": "Dr. Mohamed Saad",
-    "subject": "Linear Algebra",
-    "from": "10:00",
-    "to": "12:00"
-  },
+  "schedule": [
+    {
+      "dr": "Dr. Mohamed Saad",
+      "subject": "Linear Algebra",
+      "from": "10:00",
+      "to": "12:00"
+    },
+    {
+      "dr": "Dr. Ahmed",
+      "subject": "Data Structures",
+      "from": "12:30",
+      "to": "14:00"
+    }
+  ],
+
   "seats": {
-    "name": "DR.Ali Fahmy ",
+    "name": "DR.Ali Fahmy",
     "country": "Egypt",
-    "job": "Dean Of AI College "
+    "job": "Dean Of AI College"
   },
   "talk": {
     "speaker": "Prof. Andrew",
@@ -24,8 +33,3 @@
     "subject": "Research Collaboration"
   }
 }
-
-
-
-
-
