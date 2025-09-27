@@ -1,6 +1,6 @@
 {
   "refresh_token": "abc123",
-  "format_token": "schedule",
+  "format_token": "seats",
 
   "schedule": {
     "dr": "Dr. Ahmed",
@@ -24,3 +24,4 @@
     "subject": "Research Collaboration"
   }
 }
+
