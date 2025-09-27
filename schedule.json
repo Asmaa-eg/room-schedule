@@ -1,10 +1,10 @@
 {
-  "refresh_token": "3",
-  "format_token": "talk",
+  "refresh_token": "4",
+  "format_token": "schedule",
 
   "schedule": {
-    "dr": "Dr. Ahmed",
-    "subject": "Data Structures",
+    "dr": "Dr. Mohamed Saad",
+    "subject": "Linear Algebra",
     "from": "10:00",
     "to": "12:00"
   },
@@ -14,7 +14,7 @@
     "job": "Dean Of AI College "
   },
   "talk": {
-    "speaker": "Prof. John Smith",
+    "speaker": "Prof. Andrew",
     "from": "14:00",
     "to": "15:00"
   },
@@ -24,6 +24,7 @@
     "subject": "Research Collaboration"
   }
 }
+
 
 
 
