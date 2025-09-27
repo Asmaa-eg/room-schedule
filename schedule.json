@@ -1,5 +1,5 @@
 {
-  "refresh_token": "abc123",
+  "refresh_token": "1",
   "format_token": "seats",
 
   "schedule": {
@@ -24,4 +24,5 @@
     "subject": "Research Collaboration"
   }
 }
+
 
