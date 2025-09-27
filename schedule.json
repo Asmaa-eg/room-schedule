@@ -1,5 +1,5 @@
 {
-  "refresh_token": "3",
+  "refresh_token": "4",
   "format_token": "schedule",
 
   "schedule": [
@@ -10,7 +10,7 @@
       "to": "12:00"
     },
     {
-      "dr": "Dr. Ahmed",
+      "dr": "Dr. Ahmed Elshaer",
       "subject": "Data Structures",
       "from": "12:30",
       "to": "14:00"
@@ -33,4 +33,5 @@
     "subject": "Research Collaboration"
   }
 }
+
 
