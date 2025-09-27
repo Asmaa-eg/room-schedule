@@ -1,7 +1,9 @@
 {
   "Hall1": [
     {"day":"Sun","subject":"Discrete Mathematics","doctor":"Dr.Elshaer","start":"09:00","end":"10:00"},
-    {"day":"Sun","subject":"Digital Logic","doctor":"Dr.Khaled","start":"11:00","end":"12:00"}
+    {"day":"Sun","subject":"Digital Logic","doctor":"Dr.Khaled Saada","start":"11:00","end":"12:00"},
+    {"day":"Sun","subject":"Linear Algebra","doctor":"Dr.Mohamed Saad","start":"1:00","end":"2:00"}
   ]
 }
+
 
