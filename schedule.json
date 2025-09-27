@@ -1,6 +1,6 @@
 {
-  "refresh_token": "4",
-  "format_token": "schedule",
+  "refresh_token": "5",
+  "format_token": "seats",
 
   "schedule": [
     {
@@ -33,5 +33,6 @@
     "subject": "Research Collaboration"
   }
 }
+
 
 
