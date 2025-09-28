@@ -1,5 +1,5 @@
 {
-  "refresh_token": "5",
+  "refresh_token": "6",
   "format_token": "seats",
 
   "schedule": [
@@ -17,9 +17,9 @@
     }
   ],
  "seats": {
-  "name": "Dr. Ali Fahmy",
-  "title": "Dean",
-  "department": "College of AI",
+  "name": "Prof. Ismail Abdel Ghaffar",
+  "title": "President ",
+  "department": "of AASTMT",
   "country": "Egypt"
   },
   "talk": {
@@ -34,6 +34,7 @@
     
 }
 }
+
 
 
 
