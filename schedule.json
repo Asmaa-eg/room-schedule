@@ -1,16 +1,16 @@
 {
-  "refresh_token": "3",
+  "refresh_token": "4",
   "format_token": "schedule",
 
   "schedule": [
     {
-      "dr": "Dr. Mohamed Saad",
+      "dr":" Mohamed Saad",
       "subject": "Linear Algebra",
       "from": "10:00",
       "to": "12:00"
     },
     {
-      "dr": "Dr. Ahmed Elshaer",
+      "dr":" Ahmed Elshaer",
       "subject": "Data Structures",
       "from": "12:30",
       "to": "14:00"
@@ -34,6 +34,7 @@
     
 }
 }
+
 
 
 
