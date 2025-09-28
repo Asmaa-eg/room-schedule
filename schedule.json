@@ -1,5 +1,5 @@
 {
-  "refresh_token": "5",
+  "refresh_token": "9",
   "format_token": "seats",
 
   "schedule": [
@@ -16,11 +16,11 @@
       "to": "14:00"
     }
   ],
-
-  "seats": {
-    "name": "DR.Ali Fahmy",
-    "country": "Egypt",
-    "job": "Dean Of AI College"
+ "seats": {
+  "name": "Dr. Ali Fahmy",
+  "title": "Dean",
+  "department": "College of AI"
+}
   },
   "talk": {
     "speaker": "Prof. Andrew",
@@ -33,6 +33,7 @@
     "subject": "Research Collaboration"
   }
 }
+
 
 
 
