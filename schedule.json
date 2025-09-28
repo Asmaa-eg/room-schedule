@@ -16,20 +16,12 @@
       "to": "14:00"
     }
   ],
- "seats": [
-   {
+ "seats": {
   "name": "Prof. Ismail Abdel Ghaffar",
   "title": "President ",
   "department": "of AASTMT",
   "country": "Egypt"
   },
-   {
-  "name": "Dr.Ali Fahmy",
-  "title": "Dean ",
-  "department": "of college of AI",
-  "country": "Egypt" 
-   }
- ],
   "talk": {
     "speaker": "Prof. Andrew",
     "from": "14:00",
@@ -42,6 +34,7 @@
     
 }
 }
+
 
 
 
