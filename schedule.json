@@ -1,6 +1,6 @@
 {
-  "refresh_token": "5",
-  "format_token": "meeting",
+  "refresh_token": "1",
+  "format_token": "seats",
 
   "schedule": [
     {
@@ -34,6 +34,7 @@
     
 }
 }
+
 
 
 
