@@ -19,7 +19,8 @@
  "seats": {
   "name": "Dr. Ali Fahmy",
   "title": "Dean",
-  "department": "College of AI"
+  "department": "College of AI",
+  "country": "Egypt"
 }
   },
   "talk": {
@@ -33,6 +34,7 @@
     "subject": "Research Collaboration"
   }
 }
+
 
 
 
