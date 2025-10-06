@@ -1,6 +1,6 @@
 {
-  "refresh_token": "1",
-  "format_token": "seats",
+  "refresh_token": "2",
+  "format_token": "talk",
 
   "schedule": [
     {
@@ -23,6 +23,7 @@
   "country": "Egypt"
   },
   "talk": {
+    "event": "AI Forum",
     "speaker": "Prof. Andrew",
     "from": "14:00",
     "to": "15:00"
@@ -34,6 +35,7 @@
     
 }
 }
+
 
 
 
