@@ -1,6 +1,6 @@
 {
-  "refresh_token": "4",
-  "format_token": "meeting",
+  "refresh_token": "1",
+  "format_token": "schedule",
 
   "schedule": [
     {
@@ -35,6 +35,7 @@
     
 }
 }
+
 
 
 
